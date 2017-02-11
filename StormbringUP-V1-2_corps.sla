@@ -48,7 +48,7 @@
         <LAYERS NUMMER="2" LEVEL="2" NAME="Images et boites textes" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
         <LAYERS NUMMER="3" LEVEL="3" NAME="Textes sur images" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-1" PDLanguage="-1" markOffset="nan" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
-        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="3" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="0" CMethod="0" Quality="3" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
             <Fonts Name="Blood Crow Condensed Condensed"/>
             <Fonts Name="Blood Crow Condensed Italic Condensed Italic"/>
             <Fonts Name="Blood Crow Expanded Expanded"/>
@@ -437,7 +437,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1215.28188976378" YPOS="36.6941732283465" WIDTH="60" HEIGHT="40" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 60 0 60 0 60 0 60 0 60 40 60 40 60 40 60 40 0 40 0 40 0 40 0 40 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 60 0 60 0 60 0 60 0 60 40 60 40 60 40 60 40 0 40 0 40 0 40 0 40 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="V 1.1"/>
+            <ITEXT CH="V 1.2"/>
             <trail PARENT="Annotations UP"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1279,17 +1279,17 @@
             <ITEXT CPARENT="corps italique" CH=": "/>
             <ITEXT CH="Rang 1"/>
             <nbspace/>
-            <ITEXT CH=": 1 point d’âme, bonus de 1g0"/>
+            <ITEXT CH=": 1 point d’âme, bonus de 3"/>
             <nbspace/>
             <ITEXT CH="; Rang 2"/>
             <nbspace/>
             <ITEXT CH=": 3 points d’âme"/>
             <nbspace/>
-            <ITEXT CH=": bonus de 2g0"/>
+            <ITEXT CH=": bonus de 6"/>
             <nbspace/>
             <ITEXT CH="; Rang 3"/>
             <nbspace/>
-            <ITEXT CH=": 5 points d’âme, bonus de 3g0."/>
+            <ITEXT CH=": 5 points d’âme, bonus de 9."/>
             <para/>
             <para/>
             <ITEXT CPARENT="corps gras" CH="Augmentation de compétence :"/>
@@ -2353,7 +2353,7 @@
             <para PARENT="puces"/>
             <ITEXT CH="• de la taille d’un navire (200 points). "/>
             <para PARENT="puces"/>
-            <ITEXT CH="Quand la rune est utilisée contre un être vivant, chaque groupe de trois points d’âme utilisé inflige 1g1 dégâts mais la rune doit être assemblée avec la rune appropriée en fonction de l’adversaire (rune de l’Homme, rune de la Femme, runes des Végétaux, runes des Bêtes)."/>
+            <ITEXT CH="Quand la rune est utilisée contre un être vivant, chaque groupe de deux points d’âme utilisé inflige 5 points de dégât mais la rune doit être assemblée avec la rune appropriée en fonction de l’adversaire (rune de l’Homme, rune de la Femme, runes des Végétaux, runes des Bêtes)."/>
             <para/>
             <ITEXT CH="Domination"/>
             <para PARENT="développement section"/>
@@ -2505,7 +2505,7 @@
             <para PARENT="développement section"/>
             <ITEXT CH="Porkar’râk’tull"/>
             <para PARENT="italique centré"/>
-            <ITEXT CH="Cette rune projette violemment la cible loin du sorcier ou de l’objet sur lequel elle est inscrite. Le sorcier peut affecter une cible supplémentaire pour deux points d’âme. La cible ainsi projetée subit 1g1 points de dégâts si elle rencontre une surface solide à moins de 5 m de distance."/>
+            <ITEXT CH="Cette rune projette violemment la cible loin du sorcier ou de l’objet sur lequel elle est inscrite. Le sorcier peut affecter une cible supplémentaire pour deux points d’âme. La cible ainsi projetée subit 5 points de dégâts si elle rencontre une surface solide à moins de 5 m de distance."/>
             <para/>
             <ITEXT CH="Santé"/>
             <para PARENT="développement section"/>
@@ -2575,7 +2575,7 @@
             <para PARENT="développement section"/>
             <ITEXT CH="An An’"/>
             <para PARENT="italique centré"/>
-            <ITEXT CH="Cette rune fut découverte au temps des Guerres Dharzi, mais fut peu employée par les Dharzi qui préféraient user de sa rune jumelle : Chimère. La rune peut être employée sur des cadavres ou des corps bien vivants, ou un immonde mélange des deux. La rune Hybride permet de fusionner deux ou plusieurs corps humains (ou humanoïdes) afin de créer un nouvel homme ou une nouvelle femme. Le nombre de points d’âme utilisés pour l’activer doit être égal au double de rangs de volonté combinés de l’ensemble des créatures affectées. Le sorcier peut interchanger les parties du corps comme il le souhaite. Quand la rune est désactivée, la créature se disloque et ses parties vivantes subissent 3g3 points de dégâts"/>
+            <ITEXT CH="Cette rune fut découverte au temps des Guerres Dharzi, mais fut peu employée par les Dharzi qui préféraient user de sa rune jumelle : Chimère. La rune peut être employée sur des cadavres ou des corps bien vivants, ou un immonde mélange des deux. La rune Hybride permet de fusionner deux ou plusieurs corps humains (ou humanoïdes) afin de créer un nouvel homme ou une nouvelle femme. Le nombre de points d’âme utilisés pour l’activer doit être égal au double de rangs de volonté combinés de l’ensemble des créatures affectées. Le sorcier peut interchanger les parties du corps comme il le souhaite. Quand la rune est désactivée, la créature se disloque et ses parties vivantes subissent 15 points de dégâts"/>
             <para/>
             <ITEXT CH="Lien de l’âme"/>
             <para PARENT="développement section"/>
@@ -2996,24 +2996,6 @@
             <ITEXT CH="."/>
             <para/>
             <para/>
-            <ITEXT CPARENT="corps gras" CH="Répartition du RM :"/>
-            <ITEXT CH=" voici les traits principaux de chaque type d'élémentaire :"/>
-            <para/>
-            <ITEXT CPARENT="corps italique" CH="Gnome :"/>
-            <ITEXT CH=" physique et volonté"/>
-            <para PARENT="puces"/>
-            <ITEXT CPARENT="corps italique" CH="Ondine :"/>
-            <ITEXT CH=" mental et présence"/>
-            <para PARENT="puces"/>
-            <ITEXT CPARENT="corps italique" CH="Salamandre :"/>
-            <ITEXT CH=" physique et coordination"/>
-            <para PARENT="puces"/>
-            <ITEXT CPARENT="corps italique" CH="Sylphe :"/>
-            <ITEXT CH=" mental et coordination"/>
-            <para PARENT="puces"/>
-            <ITEXT CH="Les compétences éventuelles seront estimées au cas par cas selon leur affinité avec les traits. Les élémentaires ont généralement très peu de compétences."/>
-            <para/>
-            <para/>
             <ITEXT CPARENT="corps gras" CH="Pouvoirs élémentaires"/>
             <nbspace/>
             <ITEXT CPARENT="corps gras" CH=":"/>
@@ -3104,35 +3086,6 @@
             <ITEXT CPARENT="corps gras" CH=": "/>
             <ITEXT CH="un Démon possède systématiquement un rang de peur égal à son RM (maximum 5)."/>
             <para/>
-            <para/>
-            <ITEXT CPARENT="corps gras" CH="Répartition du RM :"/>
-            <ITEXT CH=" voici pour chaque type de Démon ses traits principaux :"/>
-            <para/>
-            <ITEXT CPARENT="corps italique" CH="Démon de combat"/>
-            <nbspace/>
-            <ITEXT CPARENT="corps italique" CH=":"/>
-            <ITEXT CH=" physique et volonté"/>
-            <para PARENT="puces"/>
-            <ITEXT CPARENT="corps italique" CH="Démon de désir"/>
-            <nbspace/>
-            <ITEXT CPARENT="corps italique" CH=": "/>
-            <ITEXT CH="mental et présence"/>
-            <para PARENT="puces"/>
-            <ITEXT CPARENT="corps italique" CH="Démon de savoir"/>
-            <nbspace/>
-            <ITEXT CPARENT="corps italique" CH=":"/>
-            <ITEXT CH=" mental et volonté"/>
-            <para PARENT="puces"/>
-            <ITEXT CPARENT="corps italique" CH="Démon de protection"/>
-            <nbspace/>
-            <ITEXT CPARENT="corps italique" CH=": "/>
-            <ITEXT CH="coordination et volonté"/>
-            <para PARENT="puces"/>
-            <ITEXT CPARENT="corps italique" CH="Démon de voyage"/>
-            <nbspace/>
-            <ITEXT CPARENT="corps italique" CH=":"/>
-            <ITEXT CH=" physique et coordination"/>
-            <para PARENT="puces"/>
             <para/>
             <ITEXT CPARENT="corps gras" CH="Traits démoniaques"/>
             <nbspace/>
@@ -3232,7 +3185,7 @@
             <ITEXT CPARENT="corps italique" CH="Comte Sahat (RM4, tigre ou lion)"/>
             <nbspace/>
             <ITEXT CPARENT="corps italique" CH=":"/>
-            <ITEXT CH=" chasseur prenant plaisir à courir après sa proie. Ses griffes infligent 3g3 de dégâts."/>
+            <ITEXT CH=" chasseur prenant plaisir à courir après sa proie. Ses griffes ont une VD de 18."/>
             <para PARENT="puces"/>
             <ITEXT CPARENT="corps italique" CH="Marquis Elvourat (RM 6, panthère noire)"/>
             <nbspace/>
@@ -3242,7 +3195,7 @@
             <ITEXT CPARENT="corps italique" CH="Prince Sabragent (RM5, lion ou tigre)"/>
             <nbspace/>
             <ITEXT CPARENT="corps italique" CH=":"/>
-            <ITEXT CH=" ne se bat jamais sauf irrespect envers sa personne (ses griffes infligent 3g3 de dégâts). Royal et souverain, il accorde un bonus de +10 à tous les jets sociaux pendant une scène et peut effectuer un jet d’art oratoire en prenant autant d’incréments que la volonté de la cible pour lui donner un ordre qu’elle devra suivre. "/>
+            <ITEXT CH=" ne se bat jamais sauf irrespect envers sa personne (ses griffes ont une VD de 20). Royal et souverain, il accorde un bonus de +10 à tous les jets sociaux pendant une scène et peut effectuer un jet d’art oratoire en prenant autant d’incréments que la volonté de la cible pour lui donner un ordre qu’elle devra suivre. "/>
             <para PARENT="puces"/>
             <para PARENT="puces"/>
             <ITEXT CPARENT="corps gras" CH="Nnuuurrrr’c’c, Seigneur des insectes"/>
@@ -3267,7 +3220,7 @@
             <ITEXT CPARENT="corps italique" CH="Ezylieus, roi des cieux bleutés (RM4, oiseau de proie)"/>
             <nbspace/>
             <ITEXT CPARENT="corps italique" CH=": "/>
-            <ITEXT CH="n’attaque que ceux qui menacent sa domination (ses serres infligent 3g3 de dégâts). Il peut appeler tous les oiseaux du ciel pour dissimuler quelque chose ou lacérer un adversaire avec 5g5 de dégâts (celui-ci aura droit à un jet de coordination difficile pour diviser les dégâts par deux)."/>
+            <ITEXT CH="n’attaque que ceux qui menacent sa domination (ses serres infligent 3g3 de dégâts). Il peut appeler tous les oiseaux du ciel pour dissimuler quelque chose ou lacérer un adversaire avec 30 points de dégâts (celui-ci aura droit à un jet de coordination difficile pour diviser les dégâts par deux)."/>
             <para PARENT="puces"/>
             <ITEXT CPARENT="corps italique" CH="Baron Ohmpi (RM3, pie ou merle) :"/>
             <ITEXT CH=" avide de potins et de cancans, il n'aime rien moins que se poser sur le rebord d'une fenêtre et espionner pour tout raconter ensuite. Il hait la confrontation physique cependant."/>
@@ -3294,7 +3247,7 @@
             <ITEXT CPARENT="corps italique" CH="Duc crocs d’acier(RM5, loup)"/>
             <nbspace/>
             <ITEXT CPARENT="corps italique" CH=":"/>
-            <ITEXT CH=" il ne protège ni ne suit, il n’est là que pour tuer et ses crocs infligent 4g4 de dégâts."/>
+            <ITEXT CH=" il ne protège ni ne suit, il n’est là que pour tuer et ses crocs ont une VD de 25."/>
             <para PARENT="puces"/>
             <ITEXT CPARENT="corps italique" CH="Vicomte Melpear(RM5, renard)"/>
             <nbspace/>
@@ -3318,7 +3271,7 @@
             <ITEXT CPARENT="corps italique" CH="Marquis Tofueùfr (RM7, taureau)"/>
             <nbspace/>
             <ITEXT CPARENT="corps italique" CH=": "/>
-            <ITEXT CH="il n’est que furie et provoquera destruction aveugle. Ses cornes infligent 4g4 de dégâts."/>
+            <ITEXT CH="il n’est que furie et provoquera destruction aveugle. Ses cornes ont une VD de 25."/>
             <para PARENT="puces"/>
             <ITEXT CPARENT="corps italique" CH="Vicomte Véhérant (RM5, bœuf)"/>
             <nbspace/>
@@ -3333,7 +3286,7 @@
             <ITEXT CPARENT="corps italique" CH="Chevalier Materesang (RM 5, phacochère)"/>
             <nbspace/>
             <ITEXT CPARENT="corps italique" CH=":"/>
-            <ITEXT CH=" garde du corps un peu paresseux mais finalement efficace. Il inflige 3g3 de dégâts."/>
+            <ITEXT CH=" garde du corps un peu paresseux mais finalement efficace. Il possède une VD de 20."/>
             <para PARENT="puces"/>
             <ITEXT CPARENT="corps italique" CH="Duchesse Sajhron (RM4, truie)"/>
             <nbspace/>
@@ -4046,7 +3999,7 @@
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Vomissure :"/>
-            <ITEXT FONTSIZE="8" CH=" L'élu peut cracher un vomi corrosif. Cette attaque doit être montée comme une compétence de combat à distance et inflige 2g3 dégâts à une distance de physique mètres. "/>
+            <ITEXT FONTSIZE="8" CH=" L'élu peut cracher un vomi corrosif. Cette attaque doit être montée comme une compétence de combat à distance et inflige 15 points de dégât à une distance de physique mètres. "/>
             <para PARENT="corps tableau"/>
             <ITEXT FONTSIZE="8" CH="Lorsque cette attaque est employée l'élu ne peut plus manger et parler pendant une journée car tout son tube digestif est brûlé."/>
             <para PARENT="corps tableau"/>
@@ -5180,11 +5133,17 @@
             <para/>
             <ITEXT CH="Les formes plus stables se conservent six mois par point d'âme dépensé."/>
             <para/>
+            <para/>
+            <ITEXT CPARENT="corps gras" CH="Prix"/>
+            <nbspace/>
+            <ITEXT CPARENT="corps gras" CH=":"/>
+            <ITEXT CH=" les ingrédients nécessaires à la concoction d’une potion valent une pièce d’or pour une rune mineure, cinq pièces d’or pour une rune médiane et dix pièces d’or pour une rune majeure. Le prix est doublé si la potion est achetée toute faite."/>
+            <para/>
             <ITEXT CH="Exemple : Lomnoss tente de se créer des pillules d'incandescence pour se réchauffer dans les terre gelées. Il a acquis aux marché de Bakshaan de rares fleurs venues de Melniboné et les broie dans un creuset en prononçant la rune. Il dispose d'un rang 3 en prononciation mais seulement d'un rang 2 en alchimie. Sa compétence prononciation est donc limitée au rang 2. De plus il souhaite faire des pillules, ce qui nécessite deux incréments."/>
             <para PARENT="Exemples"/>
             <ITEXT CH="Mis à part cela il s'agit d'une activation de rune classique."/>
             <para PARENT="Exemples"/>
-            <ITEXT CH="Après 1h de concoction il dispose de ses pilules. Celles-ci se conserveront six mois. Néanmoins, il devra effectuer un jet de physique contre une toxicité de 10 à chaque prise ou subir les effets que le MJ a décidé : des brûlures graves du tube digestif entraînant de fortes diarrhées et 1g1 de dégâts. Le MJ est généreux, comme a son habitude."/>
+            <ITEXT CH="Après 1h de concoction il dispose de ses pilules. Celles-ci se conserveront six mois. Néanmoins, il devra effectuer un jet de physique contre une toxicité de 10 à chaque prise ou subir les effets que le MJ a décidé : des brûlures graves du tube digestif entraînant de fortes diarrhées et 5 points de dégâts. Le MJ est généreux, comme a son habitude."/>
             <trail PARENT="Exemples"/>
             <PageItemAttributes>
                 <ItemAttribute Name="TOC" Type="" Value="Potions" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
@@ -5210,7 +5169,7 @@
             <ITEXT CPARENT="gras tableau" CH="Colère élémentaire"/>
             <nbspace/>
             <ITEXT CPARENT="gras tableau" CH=":"/>
-            <ITEXT CH=" l’élémentaire attaque normalement une cible à une distance de physique * 10m et lui inflige physique g 5 dégâts."/>
+            <ITEXT CH=" l’élémentaire attaque normalement une cible à une distance de physique * 10m pour une VD de physique * 5."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CH="Pouvoirs des élémentaires de l’air"/>
@@ -5464,7 +5423,7 @@
             <ITEXT CPARENT="gras tableau" CH="Arbalète"/>
             <nbspace/>
             <ITEXT CPARENT="gras tableau" CH=":"/>
-            <ITEXT FONTSIZE="8" CH=" le Démon peut projeter des épines osseuses (il en produit 5 par heure) qui provoquent 3g3 dégâts."/>
+            <ITEXT FONTSIZE="8" CH=" le Démon peut projeter des épines osseuses (il en produit 5 par heure) qui possèdent une VD de 20."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Arme spécifique"/>
@@ -5587,7 +5546,7 @@
             <nbspace/>
             <ITEXT CPARENT="gras tableau" CH="ou cornes: "/>
             <ITEXT FONTSIZE="8" CH="le Démon possède des extrémités pointues"/>
-            <ITEXT CH=". Ses attaques au corps à corps gardent 3 dés."/>
+            <ITEXT CH=". Ses attaques au corps à corps sont augmentées de 20 points de dégât."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Glue"/>
@@ -5636,7 +5595,7 @@
             <ITEXT CPARENT="gras tableau" CH="Larves"/>
             <nbspace/>
             <ITEXT CPARENT="gras tableau" CH="(RM&gt;2 uniquement) :"/>
-            <ITEXT FONTSIZE="8" CH=" le Démon possède 1g1 larves RM2 infligeant 2g2 dégâts. Celles-ci jaillissent de lui sur les adversaires."/>
+            <ITEXT FONTSIZE="8" CH=" le Démon possède 1g1 larves RM1 aux crocs avec une VD de 10. Celles-ci jaillissent de lui sur les adversaires."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Lévitation"/>
@@ -5667,7 +5626,7 @@
             <ITEXT CPARENT="gras tableau" CH="Nuage suffocant"/>
             <nbspace/>
             <ITEXT CPARENT="gras tableau" CH=":"/>
-            <ITEXT FONTSIZE="8" CH=" le Démon peut cracher une fumée noire étouffante dans un cône de 10 * 5 m. Les dégâts infligés sont de 2g2."/>
+            <ITEXT FONTSIZE="8" CH=" le Démon peut cracher une fumée noire étouffante dans un cône de 10 * 5 m. Les dégâts infligés sont de 10."/>
             <ITEXT CH=" De plus, les personnages en respirant subissent -10 à tous leurs jets durant 10 - (leur rang de physique) phases."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
@@ -5723,14 +5682,14 @@
             <ITEXT CPARENT="gras tableau" CH="Queue, langue ou tentacule"/>
             <nbspace/>
             <ITEXT CPARENT="gras tableau" CH=":"/>
-            <ITEXT FONTSIZE="8" CH=" le Démon peut effectuer une attaque de plus par tour, elle infligera 2g2 dégâts de base."/>
+            <ITEXT FONTSIZE="8" CH=" le Démon peut effectuer une attaque de plus par tour, elle infligera 10 dégâts de base."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Queue de scorpion"/>
             <nbspace/>
             <ITEXT CPARENT="gras tableau" CH=":"/>
             <ITEXT FONTSIZE="8" CH=" le Démon peut effectuer une attaque supplémentaire par tour de combat avec sa queue (voir ci-dessus) mais elle inflige "/>
-            <ITEXT CH=" 1g1 de dégâts de venin supplémentaires."/>
+            <ITEXT CH=" 5 de dégâts de venin supplémentaires."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Rapidité"/>
@@ -5832,16 +5791,10 @@
             <ITEXT CH="le Démon est aveugle."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
-            <ITEXT CPARENT="gras tableau" CH="Surdité"/>
+            <ITEXT CPARENT="gras tableau" CH="Don"/>
             <nbspace/>
             <ITEXT CPARENT="gras tableau" CH=": "/>
-            <ITEXT CH="le Démon est sourd."/>
-            <para PARENT="corps tableau"/>
-            <para PARENT="corps tableau"/>
-            <ITEXT CPARENT="gras tableau" CH="Maladresse"/>
-            <nbspace/>
-            <ITEXT CPARENT="gras tableau" CH=":"/>
-            <ITEXT CH=" le Démon possède un rang de moins en coordination."/>
+            <ITEXT CH="le sorcier doit conférer 3XP au Démon en plus du contrat."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Faiblesse"/>
@@ -5850,10 +5803,22 @@
             <ITEXT CH=" le Démon possède un rang de moins en physique."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
+            <ITEXT CPARENT="gras tableau" CH="Fixation"/>
+            <nbspace/>
+            <ITEXT CPARENT="gras tableau" CH=":"/>
+            <ITEXT CH=" le démon ne peut changer de cible une fois qu’il a commencé à en attaquer une"/>
+            <para PARENT="corps tableau"/>
+            <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Fragilité"/>
             <nbspace/>
             <ITEXT CPARENT="gras tableau" CH=":"/>
             <ITEXT CH=" la taille de jauge de santé du Démon est réduite de un."/>
+            <para PARENT="corps tableau"/>
+            <para PARENT="corps tableau"/>
+            <ITEXT CPARENT="gras tableau" CH="Haine"/>
+            <nbspace/>
+            <ITEXT CPARENT="gras tableau" CH=":"/>
+            <ITEXT CH=" une espèce donnée ou un peuple (chiens, dorelites... encore que dans ce cas la différence ne soit pas notable) attaque à vue le démon"/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Ennemi"/>
@@ -5862,16 +5827,16 @@
             <ITEXT CH=" le Démon déteste un certain type de créature (élémentaire, peuple, animal, autre type de Démon) et il les attaque à vue."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
+            <ITEXT CPARENT="gras tableau" CH="Maladresse"/>
+            <nbspace/>
+            <ITEXT CPARENT="gras tableau" CH=":"/>
+            <ITEXT CH=" le Démon possède un rang de moins en coordination."/>
+            <para PARENT="corps tableau"/>
+            <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Mégalomanie"/>
             <nbspace/>
             <ITEXT CPARENT="gras tableau" CH=":"/>
             <ITEXT CH=" le Démon se prend pour une puissance, la négociation subit un malus de -5."/>
-            <para PARENT="corps tableau"/>
-            <para PARENT="corps tableau"/>
-            <ITEXT CPARENT="gras tableau" CH="Phobie"/>
-            <nbspace/>
-            <ITEXT CPARENT="gras tableau" CH=": "/>
-            <ITEXT CH="le Démon souffre d’une phobie à déterminer."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Nu"/>
@@ -5880,22 +5845,10 @@
             <ITEXT CH=" le Démon ne porte aucun type d’armure, même naturelle."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
-            <ITEXT CPARENT="gras tableau" CH="Visqueux"/>
+            <ITEXT CPARENT="gras tableau" CH="Phobie"/>
             <nbspace/>
-            <ITEXT CPARENT="gras tableau" CH=":"/>
-            <ITEXT CH=" le Démon sécrète une substance verdâtre, ses jets de discrétion subisse un malus de 15."/>
-            <para PARENT="corps tableau"/>
-            <para PARENT="corps tableau"/>
-            <ITEXT CPARENT="gras tableau" CH="Stupide"/>
-            <nbspace/>
-            <ITEXT CPARENT="gras tableau" CH=":"/>
-            <ITEXT CH=" le Démon possède un rang de moins en mental."/>
-            <para PARENT="corps tableau"/>
-            <para PARENT="corps tableau"/>
-            <ITEXT CPARENT="gras tableau" CH="Sensibilité"/>
-            <nbspace/>
-            <ITEXT CPARENT="gras tableau" CH=":"/>
-            <ITEXT CH=" le Démon est sensible à une substance (alcool, argent, feu) sa résistance extraplanaire ne joue pas contre elle et les dégâts sont même doublés."/>
+            <ITEXT CPARENT="gras tableau" CH=": "/>
+            <ITEXT CH="le Démon souffre d’une phobie à déterminer."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Point faible"/>
@@ -5910,11 +5863,30 @@
             <ITEXT CH=" le Démon refuse d’apparaître sans un sacrifice de RM personnes."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
-            <ITEXT CPARENT="gras tableau" CH="Don"/>
+            <ITEXT CPARENT="gras tableau" CH="Sensibilité"/>
+            <nbspace/>
+            <ITEXT CPARENT="gras tableau" CH=":"/>
+            <ITEXT CH=" le Démon est sensible à une substance (alcool, argent, feu) sa résistance extraplanaire ne joue pas contre elle et les dégâts sont même doublés."/>
+            <para PARENT="corps tableau"/>
+            <para PARENT="corps tableau"/>
+            <ITEXT CPARENT="gras tableau" CH="Stupide"/>
+            <nbspace/>
+            <ITEXT CPARENT="gras tableau" CH=":"/>
+            <ITEXT CH=" le Démon possède un rang de moins en mental."/>
+            <para PARENT="corps tableau"/>
+            <para PARENT="corps tableau"/>
+            <ITEXT CPARENT="gras tableau" CH="Surdité"/>
             <nbspace/>
             <ITEXT CPARENT="gras tableau" CH=": "/>
-            <ITEXT CH="le sorcier doit conférer 3XP au Démon en plus du contrat."/>
-            <trail PARENT="corps tableau"/>
+            <ITEXT CH="le Démon est sourd."/>
+            <para PARENT="corps tableau"/>
+            <para PARENT="corps tableau"/>
+            <ITEXT CPARENT="gras tableau" CH="Visqueux"/>
+            <nbspace/>
+            <ITEXT CPARENT="gras tableau" CH=":"/>
+            <ITEXT CH=" le Démon sécrète une substance verdâtre, ses jets de discrétion subisse un malus de 15."/>
+            <para PARENT="corps tableau"/>
+            <para PARENT="corps tableau"/>
             <PageItemAttributes>
                 <ItemAttribute Name="TOC" Type="" Value="Traits démoniaques" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
@@ -6062,17 +6034,17 @@
             <para/>
             <para/>
             <ITEXT CPARENT="corps gras" CH="Griffes du fauve d’airain :"/>
-            <ITEXT CH=" coordination réduite d’un rang pour tous les jets nécessitant d’utiliser les mains. Ne peut plus tenir de petits objets et a donc des difficultés pour se nourrir, se raser, s’habiller etc"/>
+            <ITEXT CH=" coordination réduite d’un rang pour tous les jets nécessitant d’utiliser les mains. L'avantage poings de pierre n'est plus utile. Ne peut plus tenir de petits objets et a donc des difficultés pour se nourrir, se raser, s’habiller etc"/>
             <para/>
             <ITEXT CPARENT="corps italique" CH="Fer"/>
             <nbspace/>
             <ITEXT CPARENT="corps italique" CH=":"/>
-            <ITEXT CH=" les dégâts à mains nues gardent 3 dés"/>
+            <ITEXT CH=" la VD à mains nues passe à 5 fois le rang de physique."/>
             <para PARENT="puces"/>
             <ITEXT CPARENT="corps italique" CH="Acier"/>
             <nbspace/>
             <ITEXT CPARENT="corps italique" CH=":"/>
-            <ITEXT CH=" les dégâts à mains nues gardent 2 dés avec un bonus d’init de +2"/>
+            <ITEXT CH=" la VD à mains nues passe à 4 fois le rang de physique avec un bonus d’init de +2"/>
             <para PARENT="puces"/>
             <ITEXT CH="Greffons médians"/>
             <para PARENT="développement section"/>
