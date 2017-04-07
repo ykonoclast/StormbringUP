@@ -11,6 +11,7 @@
         <COLOR NAME="FromEPS#010101" RGB="#010101" Spot="0" Register="0"/>
         <COLOR NAME="FromEPS#850119" RGB="#850119" Spot="0" Register="0"/>
         <COLOR NAME="FromEPS#e6e6ff" RGB="#e6e6ff" Spot="0" Register="0"/>
+        <COLOR NAME="None" RGB="#966432" Spot="0" Register="0"/>
         <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
         <COLOR NAME="Rouge Vampire" CMYK="#03ffd17a" Spot="0" Register="0"/>
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
@@ -47,7 +48,7 @@
         <LAYERS NUMMER="2" LEVEL="2" NAME="Images et boites textes" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
         <LAYERS NUMMER="3" LEVEL="3" NAME="Textes sur images" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="0" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-1" PDLanguage="-1" markOffset="nan" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
-        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="3" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="0" CMethod="3" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
             <Fonts Name="Blood Crow Condensed Condensed"/>
             <Fonts Name="Blood Crow Condensed Italic Condensed Italic"/>
             <Fonts Name="Blood Crow Expanded Expanded"/>
@@ -436,7 +437,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1215.28188976378" YPOS="36.6941732283465" WIDTH="60" HEIGHT="40" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 60 0 60 0 60 0 60 0 60 40 60 40 60 40 60 40 0 40 0 40 0 40 0 40 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 60 0 60 0 60 0 60 0 60 40 60 40 60 40 60 40 0 40 0 40 0 40 0 40 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="V 1.2"/>
+            <ITEXT CH="V 1.3"/>
             <trail PARENT="Annotations UP"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1175,14 +1176,16 @@
             <para/>
             <ITEXT CH="Dons et tendances"/>
             <para PARENT="Titre section"/>
-            <ITEXT CPARENT="corps gras" CH="Dons"/>
+            <ITEXT CH="Dons"/>
             <para PARENT="développement section"/>
             <ITEXT CH="Lorsqu’un élu a passé un pacte avec un Seigneur d’en haut, il peut recevoir de celui-ci des dons."/>
             <para/>
             <ITEXT CH=" "/>
             <para/>
             <ITEXT CPARENT="corps gras" CH="Coût :"/>
-            <ITEXT CH=" chaque don a un coût en points d’âme, certains dons possèdent plusieurs rangs et un élu peut améliorer un don déjà acheté en imprégnant son pacte du complément en points d’âme pour atteindre le rang supérieur. Chaque rang de don force le personnage à recevoir une tendance ou à en augmenter une déjà possédées d’un rang."/>
+            <ITEXT CH=" chaque don a un coût en points d’âme, certains dons possèdent plusieurs rangs et un élu peut améliorer un don déjà acheté en imprégnant son pacte du complément en points d’âme pour atteindre le rang supérieur. Chaque rang de don force le personnage à recevoir une "/>
+            <ITEXT CPARENT="corps italique" CH="tendance"/>
+            <ITEXT CH=" ou, si il en possède actuellement une qui n'est pas au rang maximum, à augmenter celle-ci d’un rang."/>
             <para/>
             <para/>
             <ITEXT CPARENT="corps gras" CH="Condition : "/>
@@ -1196,29 +1199,27 @@
             <para/>
             <para/>
             <ITEXT CPARENT="corps gras" CH="Maximum :"/>
-            <ITEXT CH=" un élu ne peut avoir plus de dons en tout que le double de son rang d’aspect. Un don amélioré ne compte que pour un seul don, les rangs ne sont pas des dons séparés."/>
+            <ITEXT CH=" par rang d'aspect, un élu ne peut avoir plus d'un don de la loi ou du chaos et un don des seigneurs des bêtes ou des des éléments. Un don amélioré ne compte que pour un seul don, les rangs ne sont pas des dons séparés."/>
             <para/>
             <ITEXT CH="Sauf mention contraire, un don individuel ne peut être pris qu’une fois."/>
+            <para/>
+            <para/>
+            <ITEXT CPARENT="corps gras" CH="Balance :"/>
+            <ITEXT CH=" un élu qui choisit d'accepter un don d'un seigneur blanc ou d'un duc du chaos offre littéralement de son âme à l'un des deux plateaux de la balance. Un tel acte à des répercussions plus fortes que n'importe quel autre choix, il gagne donc immédiatement 5 points de Loi ou de Chaos."/>
             <para/>
             <ITEXT FONTSIZE="10" CH="Tendances"/>
             <para PARENT="développement section"/>
             <ITEXT CH="Au fur et à mesure qu’un élu approfondit le lien qui l’unit à un Seigneur d’en haut, son esprit est de plus en plus perturbé par l’influence que la divinité y exerce."/>
             <para/>
             <para/>
-            <ITEXT CPARENT="corps gras" FONTSIZE="10" CH="Acquisition :"/>
-            <ITEXT FONTSIZE="10" CH=" chaque fois qu'un élu acquiert un don, une"/>
-            <ITEXT CPARENT="corps italique" CH=" tendance "/>
-            <ITEXT FONTSIZE="10" CH="est associée à celui-ci. Ceci symbolise une modification de son état d’esprit liée à sa puissance tutélair"/>
-            <ITEXT CH="e."/>
-            <para/>
-            <ITEXT CH="Les tendances possèdent des rangs, tout comme les dons. Chaque augmentation de rang dans un don augmente aussi celui de la tendance associée. "/>
-            <para/>
-            <para/>
             <ITEXT CPARENT="corps gras" FONTSIZE="10" CH="Effet :"/>
-            <ITEXT FONTSIZE="10" CH=" une tendance fonctionne de façon similaire au désavantage "/>
-            <ITEXT CPARENT="corps italique" FONTSIZE="10" CH="perte de contrôle"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH=": le personnage doit effectuer un jet de volonté contre un certain ND lorsqu’il tente d’aller contre sa tendance. A la différence de perte de contrôle, une tendance possède trois rangs. Initialement le ND est "/>
+            <ITEXT FONTSIZE="10" CH=" le personnage doit effectuer un jet de volonté contre un certain ND lorsqu’il tente d’aller contre l'une de ses tendance. Le ND dépend du rang de celle-ci."/>
+            <para/>
+            <para/>
+            <ITEXT CPARENT="corps gras" CH="Rang :"/>
+            <ITEXT FONTSIZE="10" CH=" une tendance possède quatre rangs. Initialement le ND est "/>
+            <ITEXT CPARENT="corps italique" CH="facile"/>
+            <ITEXT FONTSIZE="10" CH=", au rang suivant il devient "/>
             <ITEXT CPARENT="corps italique" FONTSIZE="10" CH="moyen"/>
             <ITEXT FONTSIZE="10" CH=", puis il passe à "/>
             <ITEXT CPARENT="corps italique" FONTSIZE="10" CH="difficile"/>
@@ -1226,11 +1227,18 @@
             <ITEXT CPARENT="corps italique" FONTSIZE="10" CH="très difficile"/>
             <ITEXT FONTSIZE="10" CH="."/>
             <para/>
-            <ITEXT CH="Exemple : de son pacte principal avec Mabelode, Lomnoss a reçu le don &quot;sixième sens&quot; accompagné de la tendance &quot;cauchemar&quot;. Il a ensuite investi un second point d'âme dans son pacte principal pour recevoir le don &quot;augmentation de compétence&quot; pour lequel il a augmenté le rang de ses cauchemars (il aurait pu prendre une autre tendance joyeuse comme &quot;dépression&quot; à la place)."/>
+            <para/>
+            <ITEXT CPARENT="corps gras" FONTSIZE="10" CH="Acquisition :"/>
+            <ITEXT FONTSIZE="10" CH=" chaque fois qu'un élu acquiert un "/>
+            <ITEXT CH="rang de don (ce sont bien les rangs individuels qui comptent, pas le nombre de dons dans l'absolu) il gagne une nouvelle tendance si il n'en possède aucune ou que toutes celles qu'il possède sont déjà au rang maximal. Dans le cas contraire il  augmente d'un rang sa tendance n'étant pas encore complétée."/>
+            <para/>
+            <ITEXT CH="A noter que les tendances fonctionnent par pacte : un don acheté au titre d'un pacte n'influe pas sur les tendances d'un autre pacte, elles sont bien traitées à part."/>
+            <para/>
+            <ITEXT CH="Exemple : de son pacte principal avec Mabelode, Lomnoss a perçu le don &quot;sixième sens&quot; accompagné de la tendance &quot;cauchemar&quot;. Il a ensuite investi un autre point d'âme dans son pacte principal pour recevoir le don &quot;augmentation de compétence&quot; pour lequel il a augmenté le rang de ses cauchemars. Ces dons lui coûtent 2 points d'âme, son total descend donc à 21."/>
             <para PARENT="Exemples"/>
-            <ITEXT CH="Son pacte secondaire lui a fourni le don &quot;aide élémentaire&quot; pour un point d'âme et la tendance &quot;carnivore&quot;."/>
+            <ITEXT CH="Son pacte secondaire lui a permis d'acheter le don &quot;aide élémentaire&quot; pour trois point d'âme et la tendance &quot;carnivore&quot;. Il passe donc à 18 points d'âme."/>
             <para PARENT="Exemples"/>
-            <ITEXT CH="Son total de points d'âmes est désormais à 22 car il a acheté un don supplémentaire à Mabelode. Il possède en tout 3 dons, et pourrait donc en acheter 5 autres car son rang d'aspect est de 4, autorisant 8 dons."/>
+            <ITEXT CH="Son total de points d'âmes est désormais à 22 car il a acheté un don supplémentaire à Mabelode. Il possède en tout 3 dons : deux du Chaos et un des seigneurs élémentaires et pourrait donc en acheter 2 autres auprès des seigneurs blancs ou des ducs du Chaos et 3 autres auprès des seigneurs élémentaires ou des seigneurs des bêtes car son rang d'aspect est de 4, autorisant 4 dons de chaque type."/>
             <para PARENT="Exemples"/>
             <ITEXT CH="Description des dons"/>
             <para PARENT="Titre section"/>
@@ -1260,13 +1268,13 @@
             <ITEXT CH="Mental ou présence rang 3."/>
             <para/>
             <ITEXT CPARENT="corps italique" CH="Imprégnation :"/>
-            <ITEXT CH=" Rang 1 : 3 point d’âme, élémentaire RM2 ; Rang 2 : 5 points d’âme : élémentaire RM3 ; Rang 3 : 7 points d’âme, élémentaire RM5."/>
+            <ITEXT CH=" Rang 1 : 3 point d’âme, élémentaire RM2 ; Rang 2 : 5 points d’âme : élémentaire RM3 ; Rang 3 : 7 points d’âme, élémentaire RM4."/>
             <para/>
             <para/>
             <ITEXT CPARENT="corps gras" CH="Arme consacrée "/>
             <nbspace/>
             <ITEXT CPARENT="corps gras" CH=": "/>
-            <ITEXT CH="l’élu peut lancer un certain nombre de dés en plus sur les dégâts qu’il inflige lorsqu’il brandit un type d’arme donné."/>
+            <ITEXT CH="l’élu obtient un certain bonus sur les dégâts qu’il inflige lorsqu’il brandit un type d’arme donné."/>
             <para/>
             <ITEXT CPARENT="corps italique" CH="Prérequis"/>
             <nbspace/>
@@ -1324,7 +1332,7 @@
             <ITEXT CPARENT="corps gras" CH="Exemple du juste "/>
             <nbspace/>
             <ITEXT CPARENT="corps gras" CH=": "/>
-            <ITEXT CH="l’élu peut invoquer la puissance d’un Seigneur blanc et ainsi accorder des bonus aux actions de ses camarades durant toute une scène."/>
+            <ITEXT CH="l’élu peut, une fois par lune, invoquer la puissance d’un Seigneur blanc et ainsi accorder des bonus aux actions de ses camarades durant toute une scène."/>
             <para/>
             <ITEXT CPARENT="corps italique" CH="Prérequis"/>
             <nbspace/>
@@ -1506,7 +1514,7 @@
             <para/>
             <para/>
             <ITEXT CPARENT="corps gras" CH="Vivacité : "/>
-            <ITEXT CH="augmente l’initiative totale. Est traité comme un bonus d’initiative d’arme classique (donc multiplié par 5)."/>
+            <ITEXT CH="augmente l’initiative totale. Cet effet est traité comme un bonus d’initiative provenant d’une arme de façon classique : il est donc multiplié par 5 et ajouté à l'initiative totale à l'issue."/>
             <para/>
             <ITEXT CPARENT="corps italique" CH="Prérequis : "/>
             <ITEXT CH="mental ou coordination rang 3."/>
@@ -1518,7 +1526,7 @@
             <ITEXT CPARENT="corps gras" CH="La voie ordonnée"/>
             <nbspace/>
             <ITEXT CPARENT="corps gras" CH=": "/>
-            <ITEXT CH="l’élu peut choisir une fois par combat de remplacer un jet qu’il vient d’accomplir par un jet où tous ses dés vaudraient 5."/>
+            <ITEXT CH="l’élu peut choisir une fois par jour de remplacer un jet qu’il vient d’accomplir par un jet où tous ses dés vaudraient 5."/>
             <para/>
             <ITEXT CPARENT="corps italique" CH="Prérequis"/>
             <nbspace/>
@@ -3916,7 +3924,7 @@
         <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="156.693543307087" YPOS="7131.80976377953" WIDTH="510.24188976378" HEIGHT="728.503937007869" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="14.17322835" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 510.242 0 510.242 0 510.242 0 510.242 0 510.242 728.504 510.242 728.504 510.242 728.504 510.242 728.504 0 728.504 0 728.504 0 728.504 0 728.504 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 510.242 0 510.242 0 510.242 0 510.242 0 510.242 728.504 510.242 728.504 510.242 728.504 510.242 728.504 0 728.504 0 728.504 0 728.504 0 728.504 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="1" BOOKMARK="0" NEXTITEM="-1" BACKITEM="136">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="156.693543307087" YPOS="6249.92031496063" WIDTH="510.24188976378" HEIGHT="564.094488188977" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.992174409905577" PCOLOR="FromEPS#e6e6ff" PCOLOR2="None" COLUMNS="2" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="5.66929133858268" TEXTRA="5.66929133858268" BEXTRA="5.66929133858268" REXTRA="5.66929133858268" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 510.242 0 510.242 0 510.242 0 510.242 0 510.242 564.094 510.242 564.094 510.242 564.094 510.242 564.094 0 564.094 0 564.094 0 564.094 0 564.094 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 510.241 0 510.241 0 510.241 0 510.241 0 510.241 564.095 510.241 564.095 510.241 564.095 510.241 564.095 0 564.095 0 564.095 0 564.095 0 564.095 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="15.5717165354399" gWidth="510.24188976378" gHeight="572.598425196853" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="156.693543307087" YPOS="6249.92031496063" WIDTH="510.24188976378" HEIGHT="581.102362204728" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.992174409905577" PCOLOR="FromEPS#e6e6ff" PCOLOR2="None" COLUMNS="2" COLGAP="14.1732283464567" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="5.66929133858268" TEXTRA="5.66929133858268" BEXTRA="5.66929133858268" REXTRA="5.66929133858268" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 510.242 0 510.242 0 510.242 0 510.242 0 510.242 581.102 510.242 581.102 510.242 581.102 510.242 581.102 0 581.102 0 581.102 0 581.102 0 581.102 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 510.241 0 510.241 0 510.241 0 510.241 0 510.241 581.103 510.241 581.103 510.241 581.103 510.241 581.103 0 581.103 0 581.103 0 581.103 0 581.103 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="15.5717165354399" gWidth="510.24188976378" gHeight="572.598425196853" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH="Traits chaotiques"/>
             <para PARENT="Titre section"/>
             <ITEXT CPARENT="gras tableau" CH="Ailes :"/>
@@ -3938,7 +3946,7 @@
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Dard : "/>
-            <ITEXT FONTSIZE="8" CH="un dard long et sanguinolent peut jaillir du bas ventre de l'élu pour s'enfoncer dans une cible sans causer de dégâts. Il peut y échanger des fluides avec la victime (comme des poisons ou des drogues présents dans le corps de l'élu) mais permet également de régénérer une blessure grave par rang d'aspect de l'élu en en infligeant une à la cible. L'on dit que parmi les sombres adeptes de Pan Tang certains élus s'échangent ainsi mutuellement leurs fluides durant d'immondes orgies de plusieurs jours."/>
+            <ITEXT FONTSIZE="8" CH="un dard long et sanguinolent peut jaillir du bas ventre de l'élu pour s'enfoncer dans une cible sans causer de dégâts. Il peut y échanger des fluides avec la victime (comme des poisons ou des drogues présents dans le corps de l'élu) mais permet également de régénérer une blessure grave par rang d'aspect de l'élu en en infligeant une à la cible (cet effet n'est possible qu'une fois par tour de combat, en phase 10, si le personnage est encore en contact avec l'ennemi à ce moment là). L'on dit que parmi les sombres adeptes de Pan Tang certains élus s'échangent ainsi mutuellement leurs fluides durant d'immondes orgies de plusieurs jours."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Décomposition :"/>
@@ -3956,7 +3964,7 @@
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Marque du Chaos :"/>
-            <ITEXT FONTSIZE="8" CH=" marqué par les puissances de l'entropie, l'élu gagne une créativité hors-norme, une beauté stupéfiante ou un autre effet ayant pour résultat d'augmenter son trait le plus élevé d'un rang et lui permettant de dépasser le maximum humain. Mais cela a un prix : si, lorsqu'il relance un 10 l'élu obtient un deuxième 10, le jet est automatiquement un échec : la discordance du chaos, qui est la source de son talent, a eu raison de ses efforts."/>
+            <ITEXT FONTSIZE="8" CH=" marqué par les puissances de l'entropie, l'élu gagne une créativité hors-norme, une beauté stupéfiante ou un autre effet ayant pour résultat d'augmenter son trait le plus élevé d'un rang et lui permettant de dépasser le maximum humain. Mais cela a un prix : si, lorsqu'il relance un 10 l'élu obtient un deuxième 10, le dé passe à 0 : la discordance du chaos, qui est la source de son talent, a eu raison de ses efforts."/>
             <para PARENT="corps tableau"/>
             <para PARENT="corps tableau"/>
             <ITEXT CPARENT="gras tableau" CH="Membre atrophié :"/>
